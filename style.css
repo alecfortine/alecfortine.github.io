@@ -1,0 +1,219 @@
+
+.home_image{
+    padding-bottom: 50px;
+    max-width: 100%;
+}
+.heading{
+	text-align: right;
+	color: black;
+	font-family: "Verdana";
+
+	font-size: 20px;
+    padding-top: 80px;
+    padding-right: 0px;
+}
+
+a:link{
+	text-decoration: none;
+	color: black;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+   color: #5473ff;
+}
+
+.pls{
+	vertical-align: text-bottom;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+div.iconbox_content{
+	padding-left: 2cm;
+}
+
+div.box_content{
+	padding-left: 2cm;
+}
+
+div.content_header{
+	padding-left: 2cm;
+}
+
+div.content_title{
+	padding-left: 2cm;
+}
+
+.container {
+	width: 1095px;
+	margin: 0px 0px 0px auto;
+    height: 370px;
+    display: inline-block;
+
+}
+
+.home_image{
+    width: 100%;
+    height: 40%;
+    float: left;
+}
+
+.content {
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin: 0 0 100px; /* bottom = footer height */
+}
+
+.margin {
+    padding: 25px;
+}
+
+footer {
+    background-color: #c4c4c4;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 20px;
+    width: 100%;
+    overflow:hidden;
+    text-align: center;
+    font-size: 14px;
+}
+
+div.servicetable{
+	display: inline;
+}
+
+.servicesbox {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    /* font-family: 'Lato', sans-serif; */
+    width: 200px;
+    height: 30px;
+    padding: 40px 10px 20px 10px;
+    margin: 0px 10px 10px 0px;
+    overflow: hidden;
+    background-size: cover;
+    float: left;
+    cursor: pointer;
+}
+
+
+
+.teambox {
+    /* position: relative; */
+    float: left;
+    width: 90px;
+    height: 110px;
+    text-align: center;
+    margin: 10px 16px 6px 0px;
+    text-transform: capitalize;
+    line-height: 16px !important;
+}
+div {
+    display: block;
+}
+.secthr {
+    width: 960px;
+    height: 24px;
+    margin: 0 auto;
+    text-align: center;
+    border-bottom: 1px solid #999;
+    padding-bottom: 8px;
+}
+#content {
+    width: 960px;
+    height: 100%;
+    margin: 0 auto;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 21px;
+    color: #666;
+}
+
+.secthr div {
+    font-family: 'Verdana', sans-serif;
+    font-weight: 300;
+    background: #FFF;
+    display: inline-block;
+    padding: 10px 10px 5px 10px;
+    margin-top: 0px;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #4a6187;
+}
+
+.contact div{
+    font-family: 'Verdana', sans-serif;
+    font-weight: 550;
+    display: inline-block;
+    padding: 10px 10px 5px 10px;
+    margin-top: 0px;
+    font-size: 26px;
+    color: #4a6187;
+}
+
+.cont {
+    width: 420px;
+    padding: 18px;
+    padding-left: 24px;
+    overflow: hidden;
+    /*border: 4px solid black;*/
+
+}
+.cont_text {
+    width: 420px;
+    padding: 18px;
+    padding-left: 24px;
+    overflow: hidden;
+    /*border: 4px solid black;*/
+}
+
+.cont_home_image {
+    margin-left: 400px;
+    float: right;
+}
+
+.cont img {
+    margin-right: 15px;
+    float: left;
+}
+
+.servicebox{
+    display: inline-block;
+}
+
+.serviceleft{
+    float: left;
+}
+
+
+.col-xs-12 {
+    width: 100%;
+}
+
+.aku { 
+    transition: all .2s ease-in-out; 
+}
+
+.aku:hover {
+    transform: scale(2); 
+}
+
+.blue {
+    background-color: #cefff5;
+}
